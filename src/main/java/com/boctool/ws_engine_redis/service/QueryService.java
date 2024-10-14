@@ -17,7 +17,7 @@ import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import static com.boctool.webservice_engine.utils.Utilities.*;
+import static com.boctool.ws_engine_redis.utils.Utilities.*;
 
 
 @Service
